@@ -1,1 +1,4 @@
-
+noun = input('Give me a noun')
+verb = ('Give me a verb')
+adjective = ('Give me an adjective') 
+Topic = ('Type 
